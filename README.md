@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This is a simple example for currency conversion using MVC in Flutter.
+
+It was used only for study, based on the work developed by the Fluterando channel (https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A)
